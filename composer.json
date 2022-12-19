@@ -1,6 +1,6 @@
 {
     "name": "dorianmongel/notion",
-    "description": "Client pour ajout contact dans une board Notion en PHP",
+    "description": "Client for adding contact in a board Notion in PHP",
     "type": "package",
     "require": {
         "php": ">=5.6.0"
@@ -15,7 +15,7 @@
     "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
-            "notiondm\\notion\\": "src/"
+            "dorianmongel\\notion\\": "src/"
         }
     }
 }
