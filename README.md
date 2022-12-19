@@ -1,2 +1,3 @@
 # notion
-Client pour ajout contact dans une board Notion en PHP
+Client for adding contact in a board Notion in PHP
+
