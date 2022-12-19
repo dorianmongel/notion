@@ -1,5 +1,5 @@
 {
-    "name": "notiondm/notion",
+    "name": "dorianmongel/notion",
     "description": "Client pour ajout contact dans une board Notion en PHP",
     "type": "package",
     "require": {
