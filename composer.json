@@ -1,0 +1,21 @@
+{
+    "name": "notiondm/notion",
+    "description": "Client pour ajout contact dans une board Notion en PHP",
+    "type": "package",
+    "require": {
+        "php": ">=5.6.0"
+    },
+    "license": "mit",
+    "authors": [
+        {
+            "name": "Dorian MONGEL",
+            "homepage": "https://www.dorianmongel.fr"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "notiondm\\notion\\": "src/"
+        }
+    }
+}
